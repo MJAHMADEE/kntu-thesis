@@ -4,6 +4,8 @@ Author: Mohammad Sina Allahkaram, msinamsina@gmail.com
 
 This repository contains a LaTeX template for writing theses according to specific guidelines.
 
+<span style="font-family: Yekan;">قالب پایان‌نامۀ دانشگاه صنعتی خواجه نصیرالدین طوسی تهران (خواجه نصیر)</span>
+
 ## Getting Started
 To get started, simply clone this repository or download the ZIP archive. The template is organized into several folders, each of which contains a different component of the thesis (such as the introduction, methodology, and conclusion).
 
